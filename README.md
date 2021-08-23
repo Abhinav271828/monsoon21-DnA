@@ -12,3 +12,11 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
 * Week 1
     * Lecture 1 (16 August, Monday)
         - Database Systems
+* Week 2
+    * Lecture 2 (23 August, Monday)
+        - About DBMSs
+            - History
+            - Characteristics
+            - Uses
+            - Categories
+            - Levels
