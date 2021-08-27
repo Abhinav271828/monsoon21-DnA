@@ -20,3 +20,10 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
             - Uses
             - Categories
             - Levels
+    * Lecture 3 (26 August, Thursday)
+        - About DBMSs
+            - Levels (contd.)
+            - Data Independence
+        - Entity Relationship (ER) Data Model
+            - Database Design Process
+            - Entities and Attributes
