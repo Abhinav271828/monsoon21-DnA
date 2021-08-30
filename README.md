@@ -27,3 +27,7 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
         - Entity Relationship (ER) Data Model
             - Database Design Process
             - Entities and Attributes
+* Week 3
+    * Lecture 4 (30 August, Monday)
+        - Entity Relationship (ER) Data Model
+            - Relationships
