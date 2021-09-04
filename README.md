@@ -31,3 +31,9 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
     * Lecture 4 (30 August, Monday)
         - Entity Relationship (ER) Data Model
             - Relationships
+    * Lecture 5 (02 September, Thursday)
+        - Entity Relationship (ER) Data Model
+            - Visualising of Structural Constraints
+            - Relationships as Attributes
+            - Entity Types
+            - n-ary Relationship Types
