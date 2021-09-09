@@ -24,16 +24,25 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
         - About DBMSs
             - Levels (contd.)
             - Data Independence
-        - Entity Relationship (ER) Data Model
+        - Entity-Relationship (ER) Data Model
             - Database Design Process
             - Entities and Attributes
 * Week 3
     * Lecture 4 (30 August, Monday)
-        - Entity Relationship (ER) Data Model
+        - Entity-Relationship (ER) Data Model
             - Relationships
     * Lecture 5 (02 September, Thursday)
-        - Entity Relationship (ER) Data Model
+        - Entity-Relationship (ER) Data Model
             - Visualising of Structural Constraints
             - Relationships as Attributes
             - Entity Types
             - n-ary Relationship Types
+* Week 4
+    * Lecture 6 (09 September, Thursday)
+        - Entity-Relationship (ER) Data Model
+            - n-ary Relationship Types (contd.)
+        - Enhanced ER Model
+            - Specialisation
+            - Generalisation
+            - Aggregation
+        - Relational Data Model

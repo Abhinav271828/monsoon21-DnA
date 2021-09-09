@@ -36,5 +36,3 @@ A weak entity type is represented by a double box and the identifying relationsh
 
 ## $n$-ary Relationship Types
 A relationship among $n$ entity types is an $n$-ary relationship. It can be modelled by $n$ binary relationships.  
-
-For example, a ternary relationship $T$ can be modelled by 3 binary relationships $B_1, B_2, B_3$ by letting $$(a, b) \in B_1, (b, c) \in B_2, (c, a) \in B_3 \iff (a, b, c) \in T.$$
