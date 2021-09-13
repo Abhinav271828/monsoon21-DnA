@@ -46,3 +46,8 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
             - Generalisation
             - Aggregation
         - Relational Data Model
+* Week 5
+    * Lecture 7 (13 September, Monday)
+        - Relational Data Model
+            - Integrity Constraints
+            - ER-Relational Correspondence
