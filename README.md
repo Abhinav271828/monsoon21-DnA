@@ -51,3 +51,6 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
         - Relational Data Model
             - Integrity Constraints
             - ER-Relational Correspondence
+    * Lecture 8 (16 September, Thursday)
+        - Relational Data Model (contd.)
+            - Relational Algebra
