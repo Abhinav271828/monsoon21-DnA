@@ -54,3 +54,9 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
     * Lecture 8 (16 September, Thursday)
         - Relational Data Model (contd.)
             - Relational Algebra
+* Week 6
+    * Lecture 9 (20 September, Monday)
+        - Relational Data Model
+            - Relational Algebra (contd.)
+            - Relational Database Design
+            - Functional Dependencies
