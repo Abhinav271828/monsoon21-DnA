@@ -16,7 +16,7 @@ $T = T_1 - T_2.$
 
 The set of operations $\{\pi, \sigma, \cup, -, \times\}$ is called a complete set of relational algebra operations. Any query language equivalent to this set is called relationally complete.  
 
-In addition to these, database applications include aggregate functions like `SUM`{.sql}, `COUNT`{.sql}, `AVERAGE`{.sql}, `MIN`{.sql}, `MAX`{.sql}. If $T =$ $_X R _Y$, then the tuples of $R$ are grouped according to the attribute $X$ and then the function(s) $Y$ is/are carried out on each group.  
+In addition to these, database applications include aggregate functions like `SUM`{.sql}, `COUNT`{.sql}, `AVERAGE`{.sql}, `MIN`{.sql}, `MAX`{.sql}. If $T =$ $_ X R_ Y$, then the tuples of $R$ are grouped according to the attribute $X$ and then the function(s) $Y$ is/are carried out on each group.  
 
 The outer join operation is similar to the equijoin, but it include *all* rows of one of the relations. In the case of the left outer join, all rows of $R$ are included, and NULLs are included wherever needed. Correspondingly, we have a right outer join and a full outer join.
 
@@ -36,7 +36,7 @@ Note that if $X$ is unique for all tuples, then it trivially determines all othe
 
 FDs ae used to specify constraints, test relation states to see if they are legal, and to improve the schema by removing undesirable dependencies.  
 
-Let $F$ be the set of FDs for $R$. The set of all FDs that hold on all instances satisfying $F$ is called the closure $F*$ of $F$.  
+Let $F$ be the set of FDs for $R$. The set of all FDs that hold on all instances satisfying $F$ is called the closure $F * $ of $F$.  
 We use $F \vDash X \to Y$ to denote that the dependency $X \to Y$ is inferred from $F$.  
 
 Some inference rules for functional dependencies are:

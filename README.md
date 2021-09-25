@@ -60,3 +60,12 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
             - Relational Algebra (contd.)
             - Relational Database Design
             - Functional Dependencies
+    * Lecture 10 (23 September, Thursday)
+        - Functional Dependencies (contd.)
+        - Keys
+        - Normalisation
+            - First Normal Form (1NF)
+            - Second Normal Form (2NF)
+            - Third Normal Form (3NF)
+            - Boyce-Codd Normal Form (BCNF)
+        - Closures
