@@ -61,6 +61,7 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
             - Relational Database Design
             - Functional Dependencies
     * Lecture 10 (23 September, Thursday)
+        - Relational Data Model
             - Functional Dependencies (contd.)
             - Keys
             - Normalisation
@@ -71,6 +72,19 @@ Notes and resources for the Data and Applications course at IIIT Hyderabad.
             - Closures
 * Week 7
     * Lecture 11 (27 September, Monday)
+        - Relational Data Model
             - Closures (contd.)
             - Decompositions
             - Tuple Relational Calculus
+    * Lecture 12 (30 September, Thursday)
+        - Relational Data Model
+            - SQL (A Relational Database Language)
+                - Retrieval
+                    - Set Operations
+                    - Conditions
+                    - Aggregate Functions and Grouping
+                - Data Manipulation
+                    - Insertion
+                    - Deletion
+                    - Updation
+                - Views
