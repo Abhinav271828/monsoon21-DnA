@@ -114,3 +114,26 @@ This operation carries out a kind of UNION between relations that are not type c
 # 8.5 Examples of Queries in Relational Algebra
 
 # 8.6 The Tuple Relational Calculus
+We write a declarative expression to specify a rerieval; the relational calculus is thus a non-procedural language. The expressive power, however, is identical to that of the relational algebra.
+
+## 8.6.1 Tuple Variables and Range Relations
+The calculus is based on specifying a number of tuple variables. Each tuple ranges over a particular relation, e.g. `{t | COND(t)}`.  
+All tuples satisfying `COND` are then included. A condition can specify the range relation of a variable, as in `{t | EMPLOYEE(t) AND t.Salary > 50000}`.
+
+## 8.6.2 Expressions and Formulas in Tuple Relational Calculus
+A general expression has the form `{t1.Aj, t2.Ak, ..., tn.Am | COND(t1,t2,...,tn,...,tp)}`.  
+
+`COND` is either a condition specifying the range, or a copmarison-based condition.
+
+## 8.6.3 The Existential and Universal Quantifiers
+These quantifiers can be used in conditional formulae.
+
+## 8.6.4 Sample Queries in Tuple Relational Calculus
+
+## 8.6.5 Notation for Query Graphs
+
+## 8.6.6 Transforming the Universal and Existential Quantifiers
+
+## 8.6.7 Using the Universal Quantifier in Queries
+
+## 8.6.8 Safe Expressions
