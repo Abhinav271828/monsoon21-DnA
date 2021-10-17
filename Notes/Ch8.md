@@ -68,7 +68,7 @@ In SQL, this operation is equivalent to the `CROSS JOIN`{.sql} statement.
 ## 8.3.1 The JOIN Operation
 This operation is denoted by $\bowtie$ and is used to combine related tuples from two relations. The JOIN operation can be expressed in terms of other operations as $R \bowtie_c S = \sigma_c (R \times S)$. The condition $c$ involves attributes of both $R$ and $S$.
 
-## Variations of JOIN: The EQUIJOIN and NATURAL JOIN
+## 8.3.2 Variations of JOIN: The EQUIJOIN and NATURAL JOIN
 A JOIN operation where the only comparison operator is $=$ is called an EQUIJOIN.  
 
 In the case of EQUIJOINs, two attributes in the result always have the same values. NATURAL JOIN removes the second of these columns, if they have the same name in both relations. It is denoted by $ * $.A  
@@ -88,7 +88,7 @@ $Q_1 \gets \pi_Y(R)$
 $Q_2 \gets \pi_Y((S \times T_1) - R)$  
 $Q \gets T_1 - T_2$  
 
-## Notation for Query Trees
+## 8.3.5 Notation for Query Trees
 A query tree is a data structure that corresponds to a relational algebra expression. The inputs are leaf nodes and the relational algebra operations are internal nodes.
 
 # 8.4 Additional Relational Operations
@@ -112,3 +112,5 @@ In a LEFT OUTER JOIN, all tuples from the first operand are retained; in a RIGHT
 This operation carries out a kind of UNION between relations that are not type compatible. For example, it can be carried out between $R(X,Y)$ and $S(X,Z)$, resulting in $T(X,Y,Z)$. It is the same as performing a FULL OUTER JOIN on $X$.
 
 # 8.5 Examples of Queries in Relational Algebra
+
+# 8.6 The Tuple Relational Calculus
